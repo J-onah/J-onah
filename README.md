@@ -1,6 +1,21 @@
 ### 👋 Hi, I am Jonah. 
 
+<p align="justify">
 I am a final year Computer Science and Design undergraduate from Singapore University of Technology and Design (SUTD) with an AI minor. I love building things, especially software applications, and I have used languages such as Java, Python, C#, etc. during my journey in programming. 
+</p>
+
+### Technical Skills
+- Tensorflow
+- Pytorch 
+- Java
+- Python
+- C#
+- C
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- React
 
 ### 💻 Projects that I have done
 AI/ML Projects
