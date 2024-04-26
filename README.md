@@ -17,16 +17,14 @@ I am a final year Computer Science and Design undergraduate from Singapore Unive
 - CSS
 - React
 
-### 💻 Projects that I have done
+### 💻 Some Projects that I have done
 AI/ML Projects
 - [Snow Globe Simulation App](https://github.com/J-onah/SnowGlobe_Project)
 - [Bomberman Reinforcement Learning](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
 - [Fast Food Nutrition Detector App](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
 
-C Project
+Other Software Projects
 - [Survival Simulator Text Game](https://github.com/J-onah/Survival-Simulator)
-
-Android Projects
 - [RunSmart App](https://github.com/J-onah/RunSmart)
 - ["wHeReGotTimeFind" App](https://github.com/J-onah/wHeReGotTimeFind)
 
