@@ -1,7 +1,7 @@
 ### 👋 Hi, I am Jonah. 
 
 <p align="justify">
-I am a final year Computer Science and Design undergraduate from Singapore University of Technology and Design (SUTD) with an AI minor. I love building things, especially software applications, and I have used languages such as Java, Python, C#, etc. during my journey in programming. 
+I am a final year Computer Science and Design undergraduate from Singapore University of Technology and Design (SUTD) with an AI minor. I love building things, especially software applications, as it is a privilege to be able to be responsible for the functions and operations of the features of various products. During my journey in programming, I have used languages such as Java, Python and C# to complete the various projects that I had been building. 
 </p>
 
 ### Technical Skills
