@@ -17,7 +17,7 @@ I am a final year Computer Science and Design undergraduate from Singapore Unive
 - CSS
 - React
 
-### 💻 Some Projects that I have done
+### 💻 Some Projects That I Have Done
 AI/ML Projects
 - [Snow Globe Simulation App](https://github.com/J-onah/SnowGlobe_Project)
 - [Bomberman Reinforcement Learning](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
