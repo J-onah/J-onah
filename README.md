@@ -19,14 +19,15 @@ I am a final year Computer Science and Design undergraduate from Singapore Unive
 
 ### 💻 Some Projects That I Have Done
 AI/ML Projects
-- [Snow Globe Simulation App](https://github.com/J-onah/SnowGlobe_Project)
-- [Bomberman Reinforcement Learning](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
-- [Fast Food Nutrition Detector App](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
+- [Snow Globe Simulation App in C#](https://github.com/J-onah/SnowGlobe_Project)
+- [Bomberman Reinforcement Learning in Python](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
+- [Fast Food Nutrition Detector App in Python](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
 
 Other Software Projects
-- [Survival Simulator Text Game](https://github.com/J-onah/Survival-Simulator)
-- [RunSmart App](https://github.com/J-onah/RunSmart)
-- ["wHeReGotTimeFind" App](https://github.com/J-onah/wHeReGotTimeFind)
+- [Survival Simulator Text Game in C](https://github.com/J-onah/Survival-Simulator)
+- [RunSmart Android App](https://github.com/J-onah/RunSmart)
+- ["wHeReGotTimeFind" Android App](https://github.com/J-onah/wHeReGotTimeFind)
+- [Python Text Puzzle Escape Rooms Game](https://github.com/J-onah/Python-Text-Puzzle-Escape-Rooms)
 
 
 <!--
