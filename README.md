@@ -31,23 +31,23 @@ Other Software Projects
 
 
 ### Work Experience
-- Non-Gaming Web Development Intern
-  - Company: Resorts World Sentosa
+#### <b>Non-Gaming Web Development Intern</b>
+  - <b>Company: Resorts World Sentosa</b>
   - Duration: May 2023 - Aug 2023
   - Designed and constructed a web application for registration of events such as gala dinners and concerts, with documentation for the web application written as well. 
   - On-site support for business users of other applications
   - Constructed an application to record server alerts and determine the servers that are most affected by internal issues, displaying this data together with the top few issues that affect these servers the most.
 
-- Teaching Assistant
-  - University: Singapore University of Technology and Design
+#### <b>Teaching Assistant</b>
+  - <b>University: Singapore University of Technology and Design</b>
   - Duration: Jan 2023 - Mar 2023
   - Involved in Answering Queries and Guiding Students on Java and Android 
 
-- Software Developer / Business Analyst Intern
-  - Company: Toppan Ecquaria
+#### <b>Software Developer / Business Analyst Intern</b>
+  - <b>Company: Toppan Ecquaria</b>
   - Duration: Sep 2022 - Dec 2022
   - Implemented programming scripts using Java to generate web application test data for system testing.
-  - Handle verifications and system testing of web application.
+  - Handled verifications and system testing of web application.
   - Analysed system bugs reported by clients.
   - Experimented on handling statistic data using Java for the team to use when meeting with clients.
   - Learnt soft skills such as communicating with the team and clients.
