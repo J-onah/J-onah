@@ -30,6 +30,25 @@ Other Software Projects
 - [Python Text Puzzle Escape Rooms Game](https://github.com/J-onah/Python-Text-Puzzle-Escape-Rooms)
 
 
+### Work Experience
+- Non-Gaming Web Development Intern in Resorts World Sentosa
+  - Duration: May 2023 - Aug 2023
+  - Designed and constructed a web application for registration of events such as gala dinners and concerts, with documentation for the web application written as well. 
+  - On-site support for business users of other applications
+  - Constructed an application to record server alerts and determine the servers that are most affected by internal issues, displaying this data together with the top few issues that affect these servers the most.
+
+- Teaching Assistant in Singapore University of Technology and Design
+  - Duration: Jan 2023 - Mar 2023
+  - Involved in Answering Queries and Guiding Students on Java and Android 
+
+- Software Developer / Business Analyst Intern in Toppan Ecquaria
+  - Duration: Sep 2022 - Dec 2022
+  - Implemented programming scripts using Java to generate web application test data for system testing.
+  - Handle verifications and system testing of web application.
+  - Analysed system bugs reported by clients.
+  - Experimented on handling statistic data using Java for the team to use when meeting with clients.
+  - Learnt soft skills such as communicating with the team and clients.
+
 <!--
 **J-onah/J-onah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
