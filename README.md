@@ -30,7 +30,7 @@ AI/ML Projects
 Other Software Projects
 - [Survival Simulator Text Game in C](https://github.com/J-onah/Survival-Simulator)
 - [RunSmart Android App](https://github.com/J-onah/RunSmart)
-- ["wHeReGotTimeFind" Android App](https://github.com/J-onah/wHeReGotTimeFind)
+- [WGTF Android App](https://github.com/J-onah/WGTF-Android-App)
 - [Python Text Puzzle Escape Rooms Game](https://github.com/J-onah/Python-Text-Puzzle-Escape-Rooms)
 
 <br>
