@@ -29,7 +29,7 @@ AI/ML Projects
 
 Other Software Projects
 - [Survival Simulator Text Game in C](https://github.com/J-onah/Survival-Simulator)
-- [Urban Farmer Web Application Figma Prototype](https://www.figma.com/proto/zvqHZwIrwKQCzdbBh8HQ4A/Urban-Farmer?type=design&node-id=1484-106955&t=jnSK3Buu2KN0a9r2-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1484%3A106955&show-proto-sidebar=1)
+- [Figma Prototype for Urban Farmer Web Application](https://www.figma.com/proto/zvqHZwIrwKQCzdbBh8HQ4A/Urban-Farmer?type=design&node-id=1484-106955&t=jnSK3Buu2KN0a9r2-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1484%3A106955&show-proto-sidebar=1)
 - [RunSmart Java Android App](https://github.com/J-onah/RunSmart)
 - [WGTF Java Android App](https://github.com/J-onah/WGTF-Android-App)
 - [Python Text Puzzle Escape Rooms Game](https://github.com/J-onah/Python-Text-Puzzle-Escape-Rooms)
