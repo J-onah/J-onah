@@ -24,7 +24,7 @@ I am a final year Computer Science and Design undergraduate from Singapore Unive
 ### 💻 Some Projects That I Have Done
 AI/ML Projects
 - [Snow Globe Simulation App in C#](https://github.com/J-onah/SnowGlobe_Project)
-- [Bomberman Reinforcement Learning in Python](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
+- [Bomberman Reinforcement Learning in Python](https://github.com/J-onah/Bomberman-Reinforcement-Learning)
 - [Fast Food Nutrition Detector App in Python](https://github.com/J-onah/Fast-Food-Nutrition-Detection-Project)
 
 Other Software Projects
