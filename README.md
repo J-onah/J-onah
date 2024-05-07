@@ -29,9 +29,10 @@ AI/ML Projects
 
 Other Software Projects
 - [Survival Simulator Text Game in C](https://github.com/J-onah/Survival-Simulator)
-- [RunSmart Android App](https://github.com/J-onah/RunSmart)
-- [WGTF Android App](https://github.com/J-onah/WGTF-Android-App)
+- [RunSmart Java Android App](https://github.com/J-onah/RunSmart)
+- [WGTF Java Android App](https://github.com/J-onah/WGTF-Android-App)
 - [Python Text Puzzle Escape Rooms Game](https://github.com/J-onah/Python-Text-Puzzle-Escape-Rooms)
+- [Ascenda Hotel Booking Web Application in ReactJS](https://github.com/J-onah/Ascenda-Hotel-Booking-Website)
 
 <br>
 
