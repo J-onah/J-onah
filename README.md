@@ -1,7 +1,7 @@
 ### 👋 Hi, I am Jonah. 
 
 <p align="justify">
-I am a Computer Science and Design graduate from Singapore University of Technology and Design (SUTD) with a minor in Artificial Intelligence. I love building things, especially software applications, as I like to be responsible for the functions and operations of the features of various products. During my journey in programming, I have used languages such as Java, Python and C# to complete the various projects that I had been building. 
+I am a Computer Science and Design graduate from Singapore University of Technology and Design (SUTD) with a minor in Artificial Intelligence. During my journey in programming, I have used languages such as Java, Python and C# to complete the various projects that I had been building, and I hope to be able to bring this experience into a full-time role.
 </p>
 
 <br>
@@ -43,23 +43,23 @@ Other Software Projects
 #### <b>Non-Gaming Web Development Intern</b>
   - <b>Company: Resorts World Sentosa</b>
   - Duration: May 2023 - Aug 2023
-  - Designed and constructed a web application for registration of events such as gala dinners and concerts, with documentation for the web application written as well. 
-  - On-site support for business users of other applications
-  - Constructed an application to record server alerts and determine the servers that are most affected by internal issues, displaying this data together with the top few issues that affect these servers the most.
+  - Designed and constructed a web application using Java Spring Boot for registration of events such as gala dinners and concerts to improve efficiency of registration operations, as well as writing the documentations and guides for usage of the application.
+  - Constructed an application to record server-down alerts and determine the most affected servers, with the display of the top few issues that affect these servers the most, so that the team could determine the most common issues and find a fix.
+
 
 #### <b>Teaching Assistant</b>
   - <b>University: Singapore University of Technology and Design</b>
   - Duration: Jan 2023 - Mar 2023
-  - Involved in Answering Queries and Guiding Students on Java and Android 
+  - Involved in answering queries and guiding students on Java and Android 
 
-#### <b>Software Developer / Business Analyst Intern</b>
+#### <b>Software Developer Intern</b>
   - <b>Company: Toppan Ecquaria</b>
   - Duration: Sep 2022 - Dec 2022
-  - Implemented programming scripts using Java to generate web application test data for system testing.
-  - Handled verifications and system testing of web application.
-  - Analysed system bugs reported by clients.
-  - Experimented on handling statistic data using Java for the team to use when meeting with clients.
-  - Learnt soft skills such as communicating with the team and clients.
+  - Automated parts of the testing process by constructing scripts to generate web application test data to save around 15 mins for each test case generated.
+  - Conducted system testing to ensure that bugs are fixed so as to allow batch deployment of fixes to production within a day.
+  - Handled analysis of system bugs for web application by examining documentation available to determine the root cause.
+  - Attended meetings with clients to take down and revise current web application requirements.
+
 
 <!--
 **J-onah/J-onah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
