@@ -18,6 +18,7 @@ I am a Computer Science and Design graduate from Singapore University of Technol
 - HTML
 - CSS
 - React
+- SQL
 
 <br>
 
